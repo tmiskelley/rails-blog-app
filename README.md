@@ -1,24 +1,7 @@
-# README
+# Blog App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repository is a simple blog application following 
+the Ruby on Rails tutorial documentation for getting started,
+with some basic Bootstrap Styling added for aesthetic purposes.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Project uses Rails version 7.0.4.3
